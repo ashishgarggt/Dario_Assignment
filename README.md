@@ -1,4 +1,4 @@
-<img width="1470" height="835" alt="Screenshot 2026-06-09 at 12 35 28 AM" src="https://github.com/user-attachments/assets/2b291cf0-8e7d-42a8-8874-9ec74767606a" />
+
 # Healthcare Dashboard – COVID‑19 Trends
 
 ## Run steps (exactly as required)
@@ -13,6 +13,17 @@ python -m venv .venv
 pip install -r requirements.txt
 python etl.py
 streamlit run app.py
+
+<img width="1470" height="835" alt="Screenshot 2026-06-09 at 12 35 28 AM" src="https://github.com/user-attachments/assets/2b291cf0-8e7d-42a8-8874-9ec74767606a" />
+
+<img width="1470" height="835" alt="Screenshot 2026-06-09 at 12 36 44 AM" src="https://github.com/user-attachments/assets/64e3dc61-94df-4a2e-9967-09628369326e" />
+
+
+<img width="1470" height="835" alt="Screenshot 2026-06-09 at 12 37 17 AM" src="https://github.com/user-attachments/assets/1a1731e5-2e92-4485-95d0-ad7dc26912ac" />
+
+
+
+
 
 
 
