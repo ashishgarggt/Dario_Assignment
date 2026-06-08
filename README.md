@@ -7,9 +7,12 @@
 # 2. Open terminal inside healthcare-dashboard/
 
 python -m venv .venv
-# Windows: .venv\Scripts\activate
 # Mac/Linux: source .venv/bin/activate
 
 pip install -r requirements.txt
 python etl.py
 streamlit run app.py
+
+
+
+
